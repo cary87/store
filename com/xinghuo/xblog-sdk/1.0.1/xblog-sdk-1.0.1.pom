@@ -171,11 +171,5 @@
       <version>1.0.2</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>Xblog</groupId>
-      <artifactId>jjdxm-ijkplayer</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
